@@ -1,10 +1,30 @@
-# jetset
+jetset
+======
+
 An R package with one-to-one gene-probeset mappings for Affymetrix human microarrays
 
-jetset is available on CRAN
+*jetset* is available on CRAN
 
-You can learn more here:
+*jetset* is fully described in this publication:
+> Jetset: selecting an optimal microarray probe set to represent a gene  
+> Qiyuan Li, Nicolai J. Birkbak, Balazs Gyorffy, Zoltan Szallasi, and Aron C. Eklund  
+> BMC Bioinformatics 2011 Dec 15; 12:474  
+> http://www.biomedcentral.com/1471-2105/12/474/abstract  
+
+
+Other version are available here:
 http://www.cbs.dtu.dk/biotools/jetset/
 
-There is a publication describing jetset:
-http://www.biomedcentral.com/1471-2105/12/474/abstract
+
+Installation
+------------
+
+You can install the latest release on CRAN like this (recommended):
+
+	install.packages("jetset")
+
+
+You can install the latest development version from GitHub like this:
+
+	library(devtools)
+	install_github("aroneklund/jetset")
