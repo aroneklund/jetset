@@ -53,7 +53,7 @@ Details about the jetset algorithm are available in the vignette.
 \source{Scores are calculated from BLASTN alignments between probe sequences
   and Refseq transcript sequences, as described in the vignette and in the reference below.
   
-The Refseq human RNA was downloaded from NCBI on 2015-04-20. The lookups were based on \pkg{org.Hs.eg.db} version 3.1.2.
+The Refseq human RNA was downloaded from NCBI on 2016-06-22. The lookups were based on \pkg{org.Hs.eg.db} version 3.3.0.
   }
 \references{
 Qiyuan Li, Nicolai J. Birkbak, Balazs Gyorffy, Zoltan Szallasi and Aron C. Eklund. (2011) Jetset: selecting the optimal microarray probe set to represent a gene. BMC Bioinformatics. 12:474.
