@@ -1,6 +1,6 @@
 Package: jetset
-Version: 3.3.0
-Date: 2016-06-28
+Version: 3.4.0
+Date: 2017-04-05
 Title: One-to-One Gene-Probeset Mapping for Affymetrix Human Microarrays
 Author: Qiyuan Li, Aron Eklund
 Maintainer: Aron Eklund <eklund@cbs.dtu.dk>

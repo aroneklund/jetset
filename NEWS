@@ -1,6 +1,11 @@
 jetset NEWS
 
 
+Changes in version 3.4.0 (2017-04-05)
+
+- Updated data using org.Hs.eg.db v. 3.4.0 and Refseq "human.rna.fna.gz" downloaded 2017-04-04
+
+
 Changes in version 3.3.0 (2016-06-28)
 
 - Updated data using org.Hs.eg.db v. 3.3.0 and Refseq "human.rna.fna.gz" downloaded 2016-06-22
