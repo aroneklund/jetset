@@ -14,7 +14,7 @@ An R package providing one-to-one gene-probeset mappings for Affymetrix human mi
 
 
 Other versions are available here:
-http://www.cbs.dtu.dk/biotools/jetset/
+https://services.healthtech.dtu.dk/service.php?jetset
 
 
 Installation
